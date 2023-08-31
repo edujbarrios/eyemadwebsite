@@ -2,7 +2,7 @@
 # "EYEMAD's" DJ / PRODUCER WEBSITE 🎶 
 
 
-See it live [Here](https://edujbarrios.github.io/EYEMAD-DJ-MusicProducerWebsite/)
+See it live [Here](https://edujbarrios.github.io/EYEMAD-DJ-PRODUCER-WEBSITE/)
 
 _This project started as a personal endeavor to showcase all of my works in one of my artistic aspects as a music producer, musician, and composer. However, the design and features of this website make it an ideal template for any music producer, DJ, or similar artist._
 
@@ -40,7 +40,7 @@ This project is under the MIT License.
 ### Versión en Español 🇪🇸
 # PÁGINA WEB DEL DJ / PRODUCTOR "EYEMAD"  🎶 
 
-Mírala en funcionamiento [Aquí](https://edujbarrios.github.io/EYEMAD-DJ-MusicProducerWebsite/)
+Mírala en funcionamiento [Aquí](https://edujbarrios.github.io/EYEMAD-DJ-PRODUCER-WEBSITE/)
 _Este proyecto empezó como un proyecto personal para, mediante una web, reflejar todos los trabajos de una de mis facetas artisticas como productor musical, músico y compositor. Sin embargo, el diseño y las características de este sitio web lo convierten en un template ideal para cualquier productor musical, DJ o artista similar._
 
 **Nota:** _Este proyecto es de uso libre, pero si usas este template, sería interesante que lo pusieras en mi conocimiento, es bastante gratificante la sensación de servir de ayuda a alguien con estas cosas_ 😉.
