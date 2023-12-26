@@ -5,13 +5,14 @@
   <title>EyeMad Portfolio</title>
   <link href="https://fonts.googleapis.com/css2?family=Product+Sans:wght@400;700&display=swap" rel="stylesheet">
   <style>
+
 body {
   margin: 0;
   padding: 0;
   background: linear-gradient(30deg, #000000, #635e01);
   background-size: 200% 200%; 
   animation: gradient 20s ease infinite; 
-  font-family: 'Product Sans', sans-serif;
+  font-family: 'Arial', sans-serif; /* Cambio a Arial para mejorar la lectura */
   color: #fbff00;
   overflow-y: scroll;
   display: flex;
@@ -146,12 +147,13 @@ body {
       text-align: center;
     }
 
-    .post-card img {
+  .post-card img {
       width: 100%;
       height: auto;
       border-radius: 8px;
     }
-    .menu-icon .bar {
+
+  .menu-icon .bar {
   display: block;
   width: 30px;
   height: 3px;
@@ -198,9 +200,9 @@ body {
 #menu.show {
   right: 0;
 }
+</style>
 
 
-  </style>
 </head>
 <body>
   <div id="menuToggle" class="menu-icon">
@@ -227,7 +229,6 @@ body {
     <p>Driven by an intrinsic passion for musical expression, EyeMad undertook formal training in guitar and music theory. Leveraging these foundational skills, he has since cultivated a unique musical voice, pushing the boundaries of conventional genres to create an audibly distinct and emotionally resonant sonic palette.</p>
     <p>EyeMad's career trajectory can be characterized as a continual quest for musical innovation. With a commitment to artistic evolution, he consistently seeks to update and modernize existing soundscapes. His innovative approach has positioned him as a burgeoning talent in a diverse array of genres, including but not limited to Reggaeton, Dancehall, Progressive House, and Deep House. As he continues to forge his path in the music industry, EyeMad promises to be a transformative figure for years to come.</p>
     <div id="photo"></div>
-  
   </section>
 
   <section id="streaming-links">
@@ -244,7 +245,6 @@ body {
   </section>
 
   <section id="posts">
-
     <a href="https://open.spotify.com/intl-es/track/0NrPXbc92bZSfMciLU3D6X?si=ede15ac50b574e59" target="_blank">
       <div class="post-card">
         <h3>Listen "Unusable"</h3>
@@ -313,12 +313,11 @@ body {
     </a>
   </section>
 
-  </section>
-
   <section id="contact">
     <h2>Contact</h2>
-    <p>Email: <a href="mailto:eduardo@madbeatbros.com">eduardo@madbeatbros.com</a></p>
+    <p>Email: <a href="mailto:eduardojbarriosgarcia@gmail.com">eduardojbarriosgarcia@gmail.com</a></p>
   </section>
+
   <script>
     document.getElementById('menuToggle').addEventListener('click', function() {
       const menu = document.getElementById('menu');
@@ -337,7 +336,8 @@ mobileMenuButton.addEventListener("click", () => {
   navList.classList.toggle("active");
 });
 
-  </script>
+</script>
   
 </body>
 </html>
+
