@@ -4,7 +4,9 @@
 
 See it live [Here](https://edujbarrios.github.io/EYEMAD-DJ-PRODUCER-WEBSITE/)
 
-]This version is unorganized in folders, due togithub and Pages, deployed by github.io, so that I created a stable version caring a bit less of project strcuture, only on the way it works properly and as expected]
+]This version is unorganized in folders, due togithub and Pages, deployed by github.io, so that I created a stable version caring a bit less of project strcuture, and only focusing on designing a way to let it working with github.io. 
+
+**This is is **NOT an appropiated approach on the design of the webpage,  take this into account wether you use this project structure.**
 
 _This project started as a personal endeavor to showcase all of my works in one of my artistic aspects as a music producer, musician, and composer. However, the design and features of this website make it an ideal template for any music producer, DJ, or similar artist._
 
